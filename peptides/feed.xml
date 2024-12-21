@@ -83,7 +83,7 @@
             <div class="container" style="display: flex; align-items: center; justify-content: space-between; height: 100%;">
                 <div style="height:px; width:px;"><img src="image.php?name=mypeptideslogo.png&id=10002418346753eea7073761.99887025" alt="Logo" style="height:100px;width:200px"></div>
                 <div class="links ml-4" style="display: flex; flex: 1; justify-content: center; align-items: center;">
-                    <a href="index.html" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a>
+                    <a href="index.html" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a><a href=".html" style="color: #000000; margin-right: 40px;">AOD-9604</a><a href=".html" style="color: #000000; margin-right: 40px;">BPC 157</a><a href=".html" style="color: #000000; margin-right: 40px;">Epitalon</a>
                 </div>
             </div>
         </nav>
