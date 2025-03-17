@@ -457,6 +457,156 @@
         font-style: normal;
    
 }       
+    #section8 h1 , #section8 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section8 h2 , #section8 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section8 h3, #section8 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section8 h4, #section8 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section8 h5 , #section8 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section8 h6 , #section8 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section8 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section9 h1 , #section9 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section9 h2 , #section9 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section9 h3, #section9 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section9 h4, #section9 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section9 h5 , #section9 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section9 h6 , #section9 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section9 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section10 h1 , #section10 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section10 h2 , #section10 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section10 h3, #section10 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section10 h4, #section10 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section10 h5 , #section10 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section10 h6 , #section10 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section10 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
     </style>
 </head>
 <body>
@@ -481,9 +631,9 @@
              
         ">
             <div class="container-fluid" style="display: flex; align-items: center; justify-content: space-between; height: 100%;">
-                <div style="height:px; width:px;"><img src="image.php?name=mypeptideslogo.png&id=10002418346753eea7073761.99887025" alt="Logo" style="height:100px;width:200px"></div>
+                <div style="height:px; width:px;"><img src="image.php?name=mypeptideslogo.png&id=5306879367d6912fc5a5e0.43173498" alt="Logo" style="height:100px;width:200px"></div>
                 <div class="links ml-4" style="display: flex; flex: 1; justify-content: center; align-items: center;">
-                    <a href="index.html" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a><a href=".html" style="color: #000000; margin-right: 40px;">AOD-9604</a><a href=".html" style="color: #000000; margin-right: 40px;">BPC 157</a><a href=".html" style="color: #000000; margin-right: 40px;">Epitalon</a><a href=".html" style="color: #000000; margin-right: 40px;">Shop</a><a href=".html" style="color: #000000; margin-right: 40px;">Products</a>
+                    <a href="index.html" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a><a href=".html" style="color: #000000; margin-right: 40px;">AOD-9604</a><a href=".html" style="color: #000000; margin-right: 40px;">BPC 157</a><a href=".html" style="color: #000000; margin-right: 40px;">Epitalon</a><a href=".html" style="color: #000000; margin-right: 40px;">Shop</a><a href=".html" style="color: #000000; margin-right: 40px;">Products</a><a href=".html" style="color: #000000; margin-right: 40px;">Blog</a>
                 </div>
             </div>
         </nav>
